@@ -1,5 +1,35 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
-    background: white;
+    background: green;
+}
+
+.card {
+    width: 400px;
+    height: 600px;
+    border-radius: 7%;
+    margin-top: 15%;
+
+}
+.topText {
+    margin-left: -300px;
+    margin-top: 20px;
+    font-size: 300%;
+}
+
+.middleText {
+    margin-top: 110px;
+    font-size: 1000%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.bottomText {
+    margin-top: 60px;
+    margin-left: 300px;
+    font-size: 300%;
+}
+
+html {
+  visibility: visible;
+  opacity: 1;
 }
